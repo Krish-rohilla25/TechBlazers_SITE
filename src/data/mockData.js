@@ -164,7 +164,7 @@ export const projects = [
 ];
 
 export const teamInfo = {
-  organizationName: 'Tech Blazers',
+  organizationName: 'Techblazers',
   organizationDescription: 'An innovative initiative by STMicroelectronics to foster creativity and technical excellence among young engineers. We focus on embedded systems, IoT solutions, and cutting-edge technology projects.',
   mission: 'To inspire the next generation of engineers through hands-on projects and real-world applications.',
   vision: 'Creating tomorrow\'s technology leaders today.',

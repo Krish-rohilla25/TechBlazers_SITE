@@ -1,4 +1,4 @@
-# Tech Blazers - Project Showcase Website
+# Techblazers - Project Showcase Website
 
 ## 🚀 Complete Setup Instructions
 
@@ -166,4 +166,4 @@ For any issues or questions:
 **Created by Krish Rohilla**
 LinkedIn: https://www.linkedin.com/in/krish-rohilla-b3ab19317/
 
-**Tech Blazers - An STMicroelectronics Initiative**
+**Techblazers - An STMicroelectronics Initiative**

@@ -31,7 +31,7 @@ const Header = () => {
             />
             <div className="text-2xl font-bold">
               <span className="text-blue-400">Tech</span>
-              <span className="text-purple-400">Blazers</span>
+              <span className="text-purple-400">blazers</span>
             </div>
           </div>
 
