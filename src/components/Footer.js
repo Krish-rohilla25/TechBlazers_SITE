@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Linkedin, Mail, Phone, MapPin } from 'lucide-react';
+import { Github, Linkedin, Mail, Instagram,X,Phone, MapPin } from 'lucide-react';
 
 const Footer = () => {
   return (
@@ -16,7 +16,7 @@ const Footer = () => {
               />
               <div className="text-2xl font-bold">
                 <span className="text-blue-400">Tech</span>
-                <span className="text-purple-400">Blazers</span>
+                <span className="text-purple-400">blazers</span>
               </div>
             </div>
             <p className="text-gray-400 mb-4 max-w-md">
@@ -26,10 +26,16 @@ const Footer = () => {
               <a href="https://github.com/techblazers" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Github size={20} />
               </a>
-              <a href="https://www.linkedin.com/company/techblazers" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <a href="https://www.linkedin.com/company/stmicroelectronics/posts/?feedView=all" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Linkedin size={20} />
               </a>
-              <a href="mailto:info@techblazers.com" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <a href="https://www.instagram.com/stmicroelectronics.nv/" className="text-gray-400 hover:text-blue-400 transition-colors">
+                <Instagram size={20} />
+              </a>
+              <a href="https://x.com/ST_World" className="text-gray-400 hover:text-blue-400 transition-colors">
+                <X size={20} />
+              </a>
+              <a href="mailto:tech.connect@st.com" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Mail size={20} />
               </a>
             </div>
@@ -53,11 +59,7 @@ const Footer = () => {
             <div className="space-y-2 text-gray-400">
               <div className="flex items-center space-x-2">
                 <Mail size={16} />
-                <span>info@techblazers.com</span>
-              </div>
-              <div className="flex items-center space-x-2">
-                <Phone size={16} />
-                <span>+91 98765 43210</span>
+                <span>tech.connect@st.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin size={16} />
