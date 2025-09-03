@@ -25,7 +25,7 @@ const Header = () => {
           {/* Logo and Brand */}
           <div className="flex items-center space-x-3">
             <img 
-              src="/images/New_st_logo.png" 
+              src="/images/ST_logo_2024_blue.jpg" 
               alt="STMicroelectronics" 
               className="h-8 w-auto"
             />
