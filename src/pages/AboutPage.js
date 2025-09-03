@@ -122,7 +122,7 @@ const AboutPage = () => {
               </div>
               <div className="flex-shrink-0">
                 <img 
-                  src="/images/St_logo.png" 
+                  src="/images/New_st_logo.png" 
                   alt="STMicroelectronics" 
                   className="h-24 w-auto"
                 />
